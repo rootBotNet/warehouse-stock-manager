@@ -1,0 +1,9 @@
+com\wacevazl\service\UserServiceImpl.class
+com\wacevazl\configuration\WebSecurityConfig.class
+com\wacevazl\model\User.class
+com\wacevazl\ExtServiceWarehouseStockManagerApplication.class
+com\wacevazl\controller\UserManagementController.class
+com\wacevazl\configuration\SwaggerConfig.class
+com\wacevazl\service\UserService.class
+com\wacevazl\validation\error\CustomErrorType.class
+com\wacevazl\controller\HelloController.class
