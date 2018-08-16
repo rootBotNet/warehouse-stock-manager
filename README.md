@@ -9,7 +9,7 @@
       using the SWAGGER-CODEGEN plugin.
       
 # API
-    api-warehouse-stock-manager
+#   api-warehouse-stock-manager
     #2) api-warehouse-stock-manager
         This is a spring boot project that gets packaged into a jar to be added to the client-warehouse-stock-manager as 
         a dependency.
