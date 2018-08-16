@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>wacevazl</groupId>
+  <artifactId>api-warehouse-stock-manager</artifactId>
+  <versioning>
+    <release>api-warehouse-stock-manager-1.0</release>
+    <versions>
+      <version>api-warehouse-stock-manager-1.0</version>
+    </versions>
+    <lastUpdated>20180816090944</lastUpdated>
+  </versioning>
+</metadata>
