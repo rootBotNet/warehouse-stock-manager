@@ -1,4 +1,8 @@
 # warehouse-stock-manager
+
+
+
+
 This project consist of three modules.
   #1) rest-service-warehouse-stock-manager
       This is a spring boot RESTful web service that also makes use of spring boot security.
